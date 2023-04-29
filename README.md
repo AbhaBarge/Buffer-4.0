@@ -1,5 +1,7 @@
 # Team Switch
-Team Switch - First Year Abha Barge, Aditi Mahadik, Mitali Badamikar
+Team Switch - First Year Computer Engineering
+
+Abha Barge, Aditi Mahadik, Mitali Badamikar
 
 Buffer 4.0
 
